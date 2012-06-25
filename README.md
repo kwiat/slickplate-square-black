@@ -9,7 +9,7 @@ See a live demo running [here](http://kwiat.github.com/slickplate-square-black "
 Usage
 --------
 1. Just follow the comments or search for "your" in index.html and quickly replace example content with your own name and links.
-2. Drop a lovely portrait of yours (landscape works best) as bg.jpg into the /img folder.
+2. Drop a lovely portrait of yours (landscape with face on the right works best) as bg.jpg into the /img folder.
 3. If you want to add web tracking, please do not forget to insert your [tracking code](http://support.google.com/googleanalytics/bin/answer.py?hl=en&answer=55603 "Where can I find my tracking code").
 4. Upload everything to your web server. That's it!
 
