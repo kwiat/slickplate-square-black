@@ -1,0 +1,3 @@
+[submodule "jquery-backstretch"]
+	path = jquery-backstretch
+	url = git://github.com/srobbin/jquery-backstretch.git
