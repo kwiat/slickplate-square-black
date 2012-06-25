@@ -1,0 +1,72 @@
+/* LAYOUT: Basic layout, background and font styles */
+
+body {
+  background: #000; color: #555;
+  font-family: "Century Gothic", "Tahoma", "Verdana", sans-serif; font-size: 16px;
+}
+div#sheet {
+  width: 200px; margin: 100px; padding: 20px;
+  background: rgba(0, 0, 0, 0.8);
+  border-left: 5px solid #aaa;
+  -webkit-box-shadow: 1px 5px 20px 1px rgba(0, 0, 0, 0.6), inset 0px 0px 20px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 1px 5px 20px 1px rgba(0, 0, 0, 0.6), inset 0px 0px 20px 5px rgba(0, 0, 0, 0.2);
+}
+footer {
+  position: fixed; bottom: 0; right: 0; margin: 20px;
+  font-size: 10px; color: #555; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* TEXT: Headers, tagline and paragraph styles */
+
+h1, h2 {
+  margin: 0; padding: 0;
+  font-size: 18px; color: #aaa;
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+}
+h1 {
+  padding-bottom: 5px;
+  text-transform: uppercase; letter-spacing: 5px;
+  border-bottom: 1px dotted #333;
+}
+.tagline {
+  display: block;
+  margin: 5px 0 20px 0;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; font-style: italic;
+}
+h2 {
+  font-size: 14px; font-weight: normal;
+}
+p {
+  margin: 0;
+}
+
+/* LISTS: List styles */
+
+ul {
+  margin: 5px 20px 10px 20px; padding: 0;
+  list-style-type: square;
+  font-size: 12px; 
+}
+li {
+  margin: 5px 0;
+}
+
+/* LINKS: Link states styles */
+
+a:link, a:hover, a:active, a:visited {
+  color: #777; text-decoration: none
+}
+a:hover {
+  text-decoration: underline;
+}
+footer a:link, footer a:hover, footer a:active, footer a:visited {
+  color: #555;
+}
+
+/* DIMMER: Dimmer style and transparency */
+
+div#dimmer {
+  position: fixed; top: 0; left: 0; z-index: -1;
+  width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0.0); /* Change last value within range 0.1-1.0 to dim */
+}
