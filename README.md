@@ -1,12 +1,12 @@
 Slickplate Square Black
 =======================
 
-A simple and clean HTML5 website template in the style of [about.me](http://about.me "about.me") using [Backstretch](http://srobbin.com/jquery-plugins/backstretch/ "Backstretch")
- to embed a full-size background image that fades in after loading.
+A simple and clean HTML5 website template in the style of [about.me](http://about.me "about.me") using [Backstretch](http://srobbin.com/jquery-plugins/backstretch/ "Backstretch") to embed a full-size background image that fades in after loading and automatically resizes itself.
 
 Usage
 --------
-Just follow the comments or search for "your" in index.html and quickly replace example content with your own name and content. Then drop a lovely portrait of yours as bg.jpg into /img and upload everything to your webserver.
+Just follow the comments or search for "your" in index.html and quickly replace example content with your own name and links. Then drop a lovely portrait of yours (landscape works best) as bg.jpg into /img and upload everything to your webserver.
+
 License
 --------
 
