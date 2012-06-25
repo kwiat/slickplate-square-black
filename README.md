@@ -5,7 +5,10 @@ A simple and clean HTML5 website template in the style of [about.me](http://abou
 
 Usage
 --------
-Just follow the comments or search for "your" in index.html and quickly replace example content with your own name and links. Then drop a lovely portrait of yours (landscape works best) as bg.jpg into /img and upload everything to your webserver.
+1. Just follow the comments or search for "your" in index.html and quickly replace example content with your own name and links.
+2. Then drop a lovely portrait of yours (landscape works best) as bg.jpg into the /img folder.
+3. If you want to add web tracking, please do not forget to insert your [tracking code](http://support.google.com/googleanalytics/bin/answer.py?hl=en&answer=55603 "Where can I find my tracking code").
+4. Upload everything to your web server. That's it!
 
 License
 --------
