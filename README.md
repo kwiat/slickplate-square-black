@@ -9,13 +9,12 @@ See a live demo running [here](http://kwiat.github.com/slickplate-square-black "
 Usage
 --------
 1. Just follow the comments or search for "your" in index.html and quickly replace example content with your own name and links.
-2. Drop a lovely portrait of yours (landscape with face on the right works best) as bg.jpg into the /img folder.
-3. If you want to add web tracking, please do not forget to insert your [tracking code](http://support.google.com/googleanalytics/bin/answer.py?hl=en&answer=55603 "Where can I find my tracking code").
+2. Drop a background photo (landscape works best) as bg.jpg into the /img folder.
+3. If you want to add web tracking, please do not forget to insert your personal tracking code.
 4. Upload everything to your web server. That's it!
 
 License
 --------
-Copyright © 2012  by [Andreas Kwiatkowski](http://kwiat.org "Andreas Kwiatkowski").
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License here:
 
